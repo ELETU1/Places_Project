@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Roslaan",
+    "DB_PASSWORD": "Roslaan1",
+    "DB_NAME": "places",
+    "GOOGLE_API_KEY": "AIzaSyCbYQx4Hq0ehYY6t8cMWC1swRClT-3nWYA",
+    "JWT_KEY": "secret"
+  }
+}
